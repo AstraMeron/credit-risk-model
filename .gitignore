@@ -1,0 +1,14 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Data folders (data is often too large to track)
+data/raw/
+data/processed/
+data/interim/
+
+# Jupyter Notebook Outputs and Artifacts
+.ipynb_checkpoints
+
+# MLflow and Experiment Tracking
+mlruns/
