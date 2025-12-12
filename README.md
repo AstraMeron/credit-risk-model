@@ -35,17 +35,7 @@ In a regulated financial context, Bati Bank must balance the superior predictive
 | **Regulatory Risk** | Low. Easily compliant with Basel II's governance requirements. | High. Creates the risk of lack of transparency and challenges in satisfying auditors and supervisors. |
 | **Conclusion** | The model's selection requires regulators and the bank to strike a balance between innovation and risk. While complex models offer a "more complete picture of borrowers," the necessity of transparency often favors the use of simpler, transparent models like Logistic Regression for core risk calculation. |
 
----
 
-### Commit Changes and Next Step
-
-Now that Task 1 is complete, please use Git to save your work.
-
-**How-To (Commands for PowerShell):**
-
-1.  **Stage all changes:**
-    ```powershell
-    git add .
     ```
 2.  **Commit the changes:**
     ```powershell
