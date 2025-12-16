@@ -3,3 +3,8 @@ numpy
 jupyter
 matplotlib
 seaborn
+scikit-learn
+xverse
+scorecardpy
+mlflow
+pytest
